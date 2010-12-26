@@ -1,4 +1,4 @@
- ?package(textflow):needs="X11" \
-             section="Applications/Editors"\
-             title="TextFlow" command="/usr/bin/textflow.py"
+?package(textflow):needs="X11" \
+         section="Applications/Editors"\
+         title="TextFlow" command="/usr/bin/textflow.py"
 
