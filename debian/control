@@ -3,10 +3,11 @@ Section: editors
 Priority: optional
 XS-Python-Version: all
 Maintainer: Jrabbit <jackjrabbit@gmail.com>
-Build-Depends: cdbs, debhelper (>= 7), python-central (>= 0.5.6), python
+Build-Depends: cdbs, debhelper (>= 7), python-central, python
 Standards-Version: 3.9.1
 Homepage: http://www.textflowproject.org/
-Vcs-Browser: https://code.launchpad.net/~textflow-dev/textflow/dev
+Vcs-Browser: https://github.com/jrabbit/textflow-debian
+Vcs-Git: git://github.com/jrabbit/textflow-debian.git
 
 Package: textflow
 Architecture: all

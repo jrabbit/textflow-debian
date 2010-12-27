@@ -1,8 +1,8 @@
-textflow (0.2.9-5) squeeze; urgency=low
+textflow (0.2.9-5) unstable; urgency=low
 
   * first debian compat version
 
- -- Jrabbit <jackjrabbit@gmail.com>  Sun, 26 Dec 2010 14:24:51 -0600
+ -- Jack Laxson <jackjrabbit@gmail.com>  Sun, 26 Dec 2010 14:24:51 -0600
 
 textflow (0.2.9-4) jaunty; urgency=low
 
