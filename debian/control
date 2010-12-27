@@ -13,7 +13,7 @@ Package: textflow
 Architecture: all
 XB-Python-Version: ${python:Versions}
 Depends: ${python:Depends}, python-gnome2, python-gtk2, python-glade2, libgnomevfs2-0, python-gnome2-desktop-dev, python-gtksourceview2, ${misc:Depends}
-Description: Modern, powerful and intuitive text editor for GNOME.
+Description: modern, powerful and intuitive text editor for GNOME.
  TextFlow is a powerful and intuitive text editor with tools to boost your
- productivity. TextFlow have a extensible language system that provides custom
- features for many programming languages supported by the editor.
+ productivity. TextFlow has an extensible language system that provides custom
+ features for many programming languages supported by the editor
