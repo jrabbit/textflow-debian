@@ -1,0 +1,3 @@
+version=3
+http://www.textflowproject.org/download/ \
+textflow_(.+)\.tar\.gz
