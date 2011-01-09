@@ -1,3 +1,3 @@
 version=3
 http://www.textflowproject.org/download/ \
-textflow_(.+)\.tar\.gz
+http://www.textflowproject.org/wp-content/uploads/.+/.+/textflow_(.+)\.tar\.gz
